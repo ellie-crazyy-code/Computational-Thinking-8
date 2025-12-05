@@ -1,0 +1,7 @@
+name = input ("hello. welcome to ellie's first python project. what is your name?")
+print (f"hello {name}")
+color = input ("please pick a color")
+adjective = input ("now please pick an adjective")
+animal = input ("lastly, please pick an animal")
+print ("our story starts here")
+print ("it was a {color}, {adjective} night. a ")
