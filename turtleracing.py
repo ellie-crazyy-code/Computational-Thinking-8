@@ -24,7 +24,7 @@ t4 = create_sprite("basketball.gif",x4,y4)
 
 # # Section 3 - Racing
 # # TODO - set how much each variable changes by and increase the number of repeats to at least 30
-# # TODO - explain here which sprites are faster or slower
+# # TODO - sprite 3 is the fastest so it will always win!
 for i in range(30):
     x1 += 30
     x2 += 25
